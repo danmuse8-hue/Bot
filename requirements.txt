@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-google-generativeai
-flask
-pillow
-requests
