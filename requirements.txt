@@ -1,0 +1,7 @@
+telebot==0.0.5
+pyTelegramBotAPI==4.16.0
+flask==2.3.3
+requests==2.31.0
+Pillow==10.0.0
+openai==1.6.1
+numpy==1.24.3
