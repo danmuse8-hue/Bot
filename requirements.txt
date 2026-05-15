@@ -1,6 +1,0 @@
-pyTelegramBotAPI
-openai
-flask
-pillow
-requests
-gunicorn
