@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+flask
+openai>=1.0.0
+Pillow
+requests
+numpy
